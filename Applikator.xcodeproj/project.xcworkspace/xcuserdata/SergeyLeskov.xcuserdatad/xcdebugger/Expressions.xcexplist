@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "RssViewController.parser(XMLParser, didEndElement : String, namespaceURI : String?, qualifiedName : String?) -&gt; ():RssViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "rssRecord">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RssViewController.parser(XMLParser, foundCharacters : String) -&gt; ():RssViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "elementName">
+            </PersistentString>
+            <PersistentString
+               value = "string">
+            </PersistentString>
+            <PersistentString
+               value = "currentParsedElement">
+            </PersistentString>
+            <PersistentString
+               value = " rssRecord.title">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RssViewController.tableView(UITableView, titleForHeaderInSection : Int) -&gt; String?:RssViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentSection.name">
+            </PersistentString>
+            <PersistentString
+               value = "section">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RssViewController.prepare(for : UIStoryboardSegue, sender : Any?) -&gt; ():RssViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "rss.link&#10;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static DateManager.datefromString(string : String) -&gt; Date:DateManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dateFormatter.date(from: string)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailViewController.viewDidLoad() -&gt; ():DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "link">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
